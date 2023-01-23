@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kirby TV Channel"
-excerpt: "A complete guide to Wii modding"
+excerpt: "Striim Network is a service created by WiiLink to provide media-based channel revivals for the Wii."
 ---
 
 {% include toc title="Table of Contents" %}
@@ -25,3 +25,9 @@ Striim Network is a service created by WiiLink to provide media-based channel re
 6. Open Wii Mod Lite and (using the +Control Pad) select `WAD Manager`.
 7. Locate `Kirby-TV-Channel-Patched(Striim).wad` and press the `A` button to install.
 8. After the WAD is installed, return to the Wii menu and launch the channel.
+
+---
+
+[Continue to WiiConnect24 Channels](/wiilink-wc24)<br>
+Install channels such as the Forecast Channel and the News Channel to your Wii.
+{: .notice--info}
