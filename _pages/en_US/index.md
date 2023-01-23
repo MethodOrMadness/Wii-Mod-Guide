@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: "Wii Modding Guide"
 #header:
 #  overlay_color: "#5e616c"
