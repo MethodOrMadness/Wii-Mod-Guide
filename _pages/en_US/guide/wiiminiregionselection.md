@@ -3,6 +3,8 @@ layout: single
 title: Console Region
 ---
 
+{% include toc title="Table of Contents" %}
+
 In order to softmod your Wii Mini, you need to know your console's region.
 
 ## How to determine your region

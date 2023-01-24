@@ -3,6 +3,8 @@ layout: single
 title: Choosing a USB drive
 ---
 
+{% include toc title="Table of Contents" %}
+
 In order to load your games using USB on your Wii console, you'll obviously need a USB first. Unfortunately, it's not as simple as just choosing any random USB drive. However, this guide will cover how to choose a drive that has the highest chance of working with your console.
 
 ## If you already have a USB drive

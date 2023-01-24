@@ -2,6 +2,9 @@
 layout: single
 title: USB Loader GX
 ---
+
+{% include toc title="Table of Contents" %}
+
 In this guide, you will be setting up USB Loader GX, an easy to use program that will allow you to backup and load games on an external USB device, load channels, homebrew apps, and more.
 
 *If you are choosing to use a USB hub, all italicized text is specifically for you.*

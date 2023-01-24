@@ -3,6 +3,8 @@ layout: single
 title: Priiloader
 ---
 
+{% include toc title="Table of Contents" %}
+
 Priiloader is a program that runs before the System Menu (hence the name) and can provide some brick protection as well as some useful features. In this guide, you will install Priiloader and adjust some of the basic settings.
 
 ## Requirements

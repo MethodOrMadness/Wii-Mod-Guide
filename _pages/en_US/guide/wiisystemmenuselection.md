@@ -3,6 +3,8 @@ layout: single
 title: System Menu Version
 ---
 
+{% include toc title="Table of Contents" %}
+
 In order to find a suitable exploit, we need to know your Wii's current System Menu Version. Here, you will determine that.
 
 ## Procedure

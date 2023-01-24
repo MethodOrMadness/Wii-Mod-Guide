@@ -2,6 +2,9 @@
 layout: single
 title: System Menu Update
 ---
+
+{% include toc title="Table of Contents" %}
+
 Before you mod your Wii, we recommend that you update your Wii's System Menu version to ``4.3``.
 
 ## Internet Update

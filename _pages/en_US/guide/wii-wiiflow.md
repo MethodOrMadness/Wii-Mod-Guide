@@ -3,6 +3,8 @@ layout: single
 title: WiiFlow
 ---
 
+{% include toc title="Table of Contents" %}
+
 In this guide, you will be setting up WiiFlow, a simple option for a USB loader that allows you to backup and load games on an external hard drive. Additionally, you can load channels, homebrew apps, and more.
 
 ## What you'll need

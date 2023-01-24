@@ -3,6 +3,8 @@ layout: single
 title: Before you begin...
 ---
 
+{% include toc title="Table of Contents" %}
+
 ## Things you need
 
 Before you can begin, you'll need the following things:

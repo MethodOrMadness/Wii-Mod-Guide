@@ -3,6 +3,8 @@ layout: single
 title: Choosing a USB Loader
 ---
 
+{% include toc title="Table of Contents" %}
+
 When it comes to the actual USB loader program, there are two that we recommend: USB Loader GX and WIiFlow. They both have their benefits and drawbacks.
 
 ## USB Loader GX

@@ -3,6 +3,8 @@ layout: single
 title: Purchase Guide
 ---
 
+{% include toc title="Table of Contents" %}
+
 So, you're looking to buy a Wii. But which one do you buy? Well, this page will help you with that very thing.
 
 The good news is that all models of the Wii can be modded, with some being a bit easier than others.

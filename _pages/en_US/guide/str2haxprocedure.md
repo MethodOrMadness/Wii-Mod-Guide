@@ -3,6 +3,8 @@ layout: single
 title: str2hax
 ---
 
+{% include toc title="Table of Contents" %}
+
 In this guide, you will use the **str2hax** exploit to softmod your Wii.
 
 ## Procedure

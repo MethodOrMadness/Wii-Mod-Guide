@@ -3,6 +3,8 @@ layout: single
 title: The HackMii Installer
 ---
 
+{% include toc title="Table of Contents" %}
+
 By this point, you are now at the HackMii Installer scam screen. It looks something like this:
 
 ![HackMii Scam Screen](/images/hackmiiscamscreen.png)

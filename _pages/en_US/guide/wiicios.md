@@ -3,6 +3,8 @@ layout: single
 title: Installing cIOS
 ---
 
+{% include toc title="Table of Contents" %}
+
 cIOS is a very important part of Wii softmodding. Its primary function is to allow the playing of backup games, but it does other things as well. This guide will show you how to install cIOS on your Wii.
 
 ## Requirements

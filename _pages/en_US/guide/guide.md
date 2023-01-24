@@ -5,6 +5,8 @@ description: A beginner-friendly Wii modding guide.
 redirect_from: "/guide/guide.md"
 ---
 
+{% include toc title="Table of Contents" %}
+
   Welcome to the Wii modding guide. This guide will cover everything, including what you need to get, how to prepare everything, and how to configure all the mods installed.
 
 ----

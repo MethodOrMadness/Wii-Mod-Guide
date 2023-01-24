@@ -2,6 +2,9 @@
 layout: single
 title: Making a NAND backup
 ---
+
+{% include toc title="Table of Contents" %}
+
 Making a NAND backup through BootMii is a very important step. If you accidentally brick your Wii, a NAND backup can help restore it.
 
 ## Requirements

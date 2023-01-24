@@ -3,6 +3,8 @@ layout: single
 title: Connecting to the Internet
 ---
 
+{% include toc title="Table of Contents" %}
+
 As the Wii Mini has no Wi-Fi support, the only way to connect to the internet is using a USB Ethernet adapter. Luckily, this is very easy to do.
 
 ## What you'll need

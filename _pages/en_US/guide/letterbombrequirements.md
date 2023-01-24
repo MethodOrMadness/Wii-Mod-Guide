@@ -2,6 +2,9 @@
 layout: single
 title: Before you begin...
 ---
+
+{% include toc title="Table of Contents" %}
+
 Before you begin with the **LetterBomb** exploit, here are some things you will need.
 
 ## Requirements

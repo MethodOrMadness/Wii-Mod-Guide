@@ -3,6 +3,8 @@ layout: single
 title: Executing Bluebomb
 ---
 
+{% include toc title="Table of Contents" %}
+
 If you run into trouble at this point, we recommend that you join the [Wii Mini Hacking Discord server](https://discord.gg/zyPKqt4) for support.
 {: .notice--warning}
 

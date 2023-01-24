@@ -3,6 +3,8 @@ layout: single
 title: LetterBomb
 ---
 
+{% include toc title="Table of Contents" %}
+
 In this guide you will execute the **LetterBomb** exploit to softmod your Wii.
 
 ## Procedure
