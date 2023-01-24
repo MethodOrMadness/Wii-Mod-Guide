@@ -2,15 +2,18 @@
 layout: single
 title: Priiloader
 ---
+
 Priiloader is a program that runs before the System Menu (hence the name) and can provide some brick protection as well as some useful features. In this guide, you will install Priiloader and adjust some of the basic settings.
 
 ## Requirements
+
 - A USB drive formatted as FAT32 (the one you used previously to load the HackMii Installer will work)
 - [Priiloader version 0.9 or newer](https://github.com/DacoTaco/priiloader/releases)
 - A way to transfer files to the USB drive
 - A USB keyboard
 
 ## Preparing Priiloader
+
 First, plug the USB drive into whatever you are using to transfer files to it.
 
 Next, extract the Priiloader .zip you downloaded earlier.
@@ -20,6 +23,7 @@ Inside, there will be a folder named ``apps``, along with multiple other files. 
 Finally, eject the USB drive.
 
 ## Installing Priiloader
+
 Begin by inserting the USB drive into your console.
 
 Next, open the Homebrew Channel on your Wii Mini.
@@ -33,6 +37,7 @@ In the Priiloader installer, once it finishes loading, press ``+`` to install Pr
 When the installation is complete, exit the installer and return to the Homebrew Channel.
 
 ## Using Priiloader
+
 If your console is currently turned on, turn it off.
 
 Unplug your USB drive and plug in your USB keyboard.
@@ -53,3 +58,4 @@ If you would like to avoid using your USB keyboard every time you want to load P
 Then, you can choose the ``System Menu`` option to exit Priiloader.
 
 At this point, you can continue on to [installing cIOS](/wiiminicios)
+{: .notice--info}

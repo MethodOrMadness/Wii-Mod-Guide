@@ -2,8 +2,11 @@
 layout: single
 title: str2hax
 ---
+
 In this guide, you will use the **str2hax** exploit to softmod your Wii.
+
 ## Procedure
+
 First, turn on your console. On the Wii Menu, press the Wii button in the bottom left. On the screen that follows, choose ``Wii Options``.
 
 Press the ``+`` button until you see the option labeled ``Internet``. Press that option.
@@ -26,4 +29,9 @@ Next, go back to the Internet settings, then press the ``User Agreements`` optio
 
 Press ``Yes``. You should see a blue background with a pony if the exploit is working. It should load the HackMii Installer Scam Screen within 2-3 minutes. If it doesn't load in that time or your cursor is frozen and you can't move it, force shutdown your Wii, turn it back on, and try again.
 
-Once you are at the HackMii Installer Scam Screen, you may continue to [the HackMii Installer](/wiihackmii)
+Once you are at the HackMii Installer Scam Screen, you may continue to the HackMii Installer.
+
+---
+
+[Continue to the HackMii Installer](/wiihackmii)
+{: .notice--info}

@@ -2,7 +2,8 @@
 layout: single
 title: Purchase Guide
 ---
-So, you're looking to buy a Wii. But which one do you buy? Well, this page will help you with that very thing. 
+
+So, you're looking to buy a Wii. But which one do you buy? Well, this page will help you with that very thing.
 
 The good news is that all models of the Wii can be modded, with some being a bit easier than others.
 
@@ -27,3 +28,4 @@ This is the first revised version of the Wii. It is almost exactly the same as t
 This is the first and only major redesign of the Wii. It is completely different from its predecessors. It has no internet connectivity (though it can be connected through homebrew and a USB adapter), no SD card slot, no GameCube compatibility, and only one USB port. The main reason you might want a Wii Mini is because it's a fun new challenge to mod it and get things working on it.
 
 Once you have decided on a Wii and purchased one, you can continue to [choosing the Wii you are modding](/wiiselection)
+{: .notice--info}

@@ -5,12 +5,14 @@ title: USB Loader GX
 In this guide, you will be setting up USB Loader GX, an easy to use program that will allow you to backup and load games on an external USB device, load channels, homebrew apps, and more.
 
 ## What you'll need
+
 - An SD card or USB drive formatted as FAT32.
 - A games USB drive to store games on (throughout this guide, this will be referred to as your game drive). If you do not plan on backing up GameCube games, format it as NTFS. If you plan on backing up GameCube games, format it as FAT32.
 - [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/Releases/New%20revisions%20%283.0%2B%29/USBLoaderGX%20r1271.7z/download)
 - A way to transfer files to your SD card or USB drive
 
 ## Setting up USB Loader GX
+
 Plug in your SD card or USB drive into whatever you are using to transfer files to it
 
 Then, extract the USB Loader GX .7z that you downloaded earlier.
@@ -28,6 +30,7 @@ On your Wii, open the Homebrew Channel and launch USB Loader GX. Once you launch
 USB Loader GX is now ready for use.
 
 ## Backing up Wii games to your USB drive
+
 Backing up your Wii games onto your game drive is an extremely simple process.
 
 Insert the Wii disc that you would like to rip into the disc drive.
@@ -39,6 +42,7 @@ USB Loader GX will now proceed to rip the disc onto your game drive. Wait for it
 Repeat this process for each of the games you wish to backup.
 
 ## Downloading game covers (requires an internet connection)
+
 USB Loader GX's UI will show you the covers for the games you have on your game drive, but you have to download them first.
 
 Do note that you will be required to be connected to the internet in order to do this.
@@ -47,7 +51,7 @@ Once you are connected to the internet, load USB Loader GX and press ``1`` on yo
 
 When it is done downloading, press ``OK``, and your game covers will now show up.
 
-
 You are now done setting up USB Loader GX and backing up your games.
 
 You can now continue on to [some things to keep in mind when running homebrew on the Wii](/wiitips)
+{: .notice--info}
