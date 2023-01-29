@@ -10,7 +10,7 @@ cIOS is a very important part of Wii softmodding. Its primary function is to all
 ## Requirements
 
 - An SD card or USB drive formatted as FAT32 (the one you have used previously will work)
-- [d2x cIOS Installer]()
+- [d2x cIOS Installer](/resources/d2x-cios-installer.zip)
 - A way to transfer files to the SD card or USB drive
 - A Wii that is connected to the internet
 
