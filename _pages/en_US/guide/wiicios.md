@@ -73,11 +73,11 @@ You are now done installing cIOS on your Wii.
 
 ## Errors and how to fix them!
 
-I got an error that says "`net_init failed`"(or similar, such has but not limited to hostname resolution failures) in red!!!! What do i do?
+I got an error that says "`net_init failed`" (or similar, such has but not limited to hostname resolution failures) in red!!!! What do i do?
 
 ![net_init.failure](/images/cios/net_init.png)
 
-The simplest way to fix that is to connect your wii to the internet or double check network settings, the next simplest is to [download the ios base's](link_to_how_to_here) and copy them to the root of your SD card or USB drive and re-run the installer
+The simplest way to fix that is to connect your wii to the internet or double check network settings, the next simplest is to [download the ios base's](/iosbasedownload) and copy them to the root of your SD card or USB drive and re-run the installer
 
 ---
 
