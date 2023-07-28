@@ -9,7 +9,9 @@ So, you're looking to buy a Wii. But which one do you buy? Well, this page will 
 
 The good news is that all models of the Wii can be modded, with some being a bit easier than others.
 
-Rather than going into a deep explanation of each model, here's a quick breakdown of each one:
+While this will just be a short summary, if you would like a more detailed description, see [this page](https://www.rwiihacks.com/tutorials/wiimodelguide/).
+
+Here's a quick breakdown of each model:
 
 ## Wii (RVL-001)
 
