@@ -25,7 +25,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MethodOrMadness"
 description              : "A complete guide to Wii modding"
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://guide.rwiihacks.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # enforce_ssl              : "gamecube-guide.retrotastes.com"
 # baseurl                  : "https://gamecube-guide.retrotastes.com/" # the subpath of your site, e.g. "/blog"
 repository               : "MethodOrMadness/Wii-Mod-Guide/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
