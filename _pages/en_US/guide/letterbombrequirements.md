@@ -37,7 +37,7 @@ On this site, first choose the letter that corresponds with the one you saw on y
 
 Next, enter the MAC Address you found earlier, without the dashes.
 
-Ensure the ``Bundle with HackMii Installer`` option is checked, then complete the captcha.
+Ensure the ``Bundle with HackMii Installer`` option is checked.
 
 Finally, choose the button at the bottom to cut either the red or blue wire. It doesn't matter which one you choose.
 

@@ -10,7 +10,7 @@ Priiloader is a program that runs before the System Menu (hence the name) and ca
 ## Requirements
 
 - A USB drive formatted as FAT32 (the one you used previously to load the HackMii Installer will work)
-- [Priiloader version 0.9 or newer](https://github.com/DacoTaco/priiloader/releases)
+- [Priiloader version 0.9 or newer](https://github.com/DacoTaco/priiloader/releases/latest)
 - A way to transfer files to the USB drive
 - A USB keyboard
 

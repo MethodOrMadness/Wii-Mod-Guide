@@ -30,7 +30,7 @@ In order to use Bluebomb, you will have to have a program for the Wii to execute
 
 2. Extract the HackMii Installer .zip that you downloaded previously.
 
-3. Inside the extracted contents, find ``boot.elf`` (not ``boot.elf``!) and move it to the root of your USB drive.
+3. Inside the extracted contents, find ``boot.elf`` (not ``bootmini.elf``!) and move it to the root of your USB drive.
 
 4. Eject the USB drive from your computer.
 

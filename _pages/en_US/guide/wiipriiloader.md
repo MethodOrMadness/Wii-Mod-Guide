@@ -10,7 +10,7 @@ Priiloader is a program that runs before the System Menu (hence the name) and ca
 ## Requirements
 
 - An SD card or USB drive formatted as FAT32
-- [Priiloader](https://github.com/DacoTaco/priiloader/releases) (We recommend that you don't install a beta version)
+- [Priiloader](https://github.com/DacoTaco/priiloader/releases/latest) (We recommend that you don't install a beta version)
 - A way to transfer files to the SD card/USB drive
 
 ## Preparing Priiloader
