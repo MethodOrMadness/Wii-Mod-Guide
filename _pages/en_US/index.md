@@ -12,3 +12,5 @@ Please keep in mind this site is actively under development, there might be erro
 {: .notice--info}
 
 This guide serves as a place to learn about the wii, modding it, and what you can do once modded!
+
+<a href="/guide">Start here!</a>
